@@ -9,8 +9,8 @@ including inventory, prescriptions, and billing.
 - Bill generation for sales transactions
 
 ## Tech Stack
-- C#, .NET
-- [Your database — SQL Server? SQLite?]
+- C#, .NET (Windows Forms)
+- SQL Server (via ADO.NET / SqlClient)
 
 ## Known Limitations
 - Bill generation module has some incomplete edge cases (in progress)
